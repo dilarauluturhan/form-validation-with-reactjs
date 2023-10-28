@@ -3,7 +3,7 @@
 </div>
 
 ## About The Project
-![](https://github.com/dilarauluturhan/form-validation-with-reactjs/assets/120499369/efaf84e7-6592-4946-a856-6e1a350c51ca)
+![](https://github.com/dilarauluturhan/form-validation-with-reactjs/assets/120499369/cf7545b3-9e1c-44c8-8d60-4d00a026cc42)
 
 ## Getting Started
 To get the project up and running on your local machine, follow these steps:
